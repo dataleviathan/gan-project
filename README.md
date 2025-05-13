@@ -1,0 +1,1 @@
+A Jupyter Notebook project that explores image generation using BigGAN, a pretrained Generative Adversarial Network (GAN) model. Includes experiments with latent vectors and reflections on GAN behavior.
